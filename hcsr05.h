@@ -15,7 +15,6 @@ Modify: Logan
 #define ECHO_PORT		GPIOB
 #define ECHO_PIN		GPIO_PIN_8
 
-uint8_t pos = 0;
 
 void SR05_Init(void);
 void SR05_Trigger(void);
